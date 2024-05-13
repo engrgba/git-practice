@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 hi
+=======
+hi echo
+how are you?
+>>>>>>> refs/remotes/origin/main
